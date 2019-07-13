@@ -55,15 +55,15 @@
       },
       "config-opts": [
         "-Dflatpak=true",
-        "-Dflatpak-size=compact",
+        "-Dflatpak-size=regular",
         "-Dflatpak-variant=light"
       ],
       "sources": [
         {
           "type": "git",
           "url": "https://github.com/monday15/lounge-gtk-theme.git",
-          "branch": "testing",
-          "commit": "5c3121c99ec87d2bac8da0a0b2e112f00a9b5709"
+          "tag": "1.20",
+          "commit": "373f51817e28176231abf28c7bc4082d274c388e"
         }
       ]
     },
